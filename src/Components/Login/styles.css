@@ -1,0 +1,56 @@
+.entire{
+    position: relative;
+    background-color: #fafafa;
+    top: 10vh;
+    margin-left:40vw;
+    width: 20vw;
+    height: 60vh;
+    border-radius: 0.5vw;
+}
+.lgnHeader{
+    position: relative;
+    top:50px;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.heyLgn{
+    position: relative;
+    top:80px;
+    text-align: center;
+}
+.valEmail{
+    position: relative;
+    top:120px;
+    margin-left: 50px;
+}
+
+.valPassword{
+    position: relative;
+    top:20vh;
+    margin-left: 50px;
+}
+.lgnButton{
+    position: relative;
+    top:20vh;
+    left:6vw;
+}
+
+.lgnLink{
+    position: relative;
+    top:30px;
+    left:10%;
+}
+.lgnLink:hover{
+    cursor: pointer;
+    color:blue
+}
+.adminError{
+    position: relative;
+    bottom:1vh;
+    left:4vw;
+    font-size: 0.8vw;
+    list-style-type: none;
+    color:red;
+}

@@ -1,0 +1,79 @@
+.moveAdd{
+    position: relative;
+    right:5vw;
+    bottom:4vh;
+    height: 0vh;
+    background-color: red;
+}
+.banner{
+    position:relative;
+    font-weight: 700;
+    left:20vh;
+    top:10vh;
+    height: 1vh;
+    width: 10vw;
+    background-color: red;
+}
+.addButton{
+    position: relative;
+    top:10vh;
+    right:0.5vw;
+    box-shadow:0px 4px 8px 0 rgba(0,0,0,0.3);
+}
+.clearButton{
+    position:relative;
+    left:1vw;
+    top:10vh;
+    box-shadow:0px 4px 8px 0 rgba(0,0,0,0.3);
+}
+.addListing{
+    position: relative;
+    float:left;
+    top:15vh;
+    left:10vw;
+    border-radius: 0.3vw;
+    box-shadow:0px 2px 8px 0 rgba(0,0,0,0.3);
+    height:60vh;
+    width: 20vw;
+    margin-top: 1vw;
+    margin-left: 2vw;
+}
+.inputGroup{
+    position:relative;
+    top:25vh;
+    right:40vh;   
+}
+.inputHolders{
+    position: relative;
+    bottom:20vh;
+    margin-top: 4vh;
+    left:20vw;
+    border-radius: 0.3vw;
+    width:18vw;
+}
+.labelProduct{
+    position: relative;
+    font-size: 0.9vw;
+    bottom:18vh;
+    left:12vw;
+}
+
+.imageBox{
+    height: 20vh;
+    width: 20vw;
+    box-shadow:0px 2px 8px 0 rgba(0,0,0,0.3);
+}
+
+.logOut{
+    position: relative;
+    left:60vw;
+    width: 20vw;
+    bottom:4.2vh;
+    text-decoration: underline;
+    height: 1vh;
+}
+.logOut:hover{
+    color:skyblue;
+    text-decoration: underline;
+    cursor: pointer;
+}
